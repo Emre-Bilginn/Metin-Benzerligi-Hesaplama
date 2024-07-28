@@ -1,0 +1,2 @@
+Jaccard benzerligi:0.18497109826589594
+Benzerlik:0.814934630911959

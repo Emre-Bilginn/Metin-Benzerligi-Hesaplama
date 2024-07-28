@@ -1,0 +1,2 @@
+Jaccard yönteminde iki metinin ortak kelimlerine göre bir benzerlik yapıyor |A ∩ B| / |A ∪ B| bu formule göre benzerlik hesaplıyor.
+Diğer benzerlik türünde de metinlerdeki kelime sayısını buluyor , metinlerdeki harf sayısını buluyor bunları önce kendi içinde oranlıyor daha sonra kelime oranı ve harf oranını toplayıp 2 ye bölerek benzerlik oranı buluyor, bu tavsiye edilen bir yöntem değil daha çok jaccard yöntemi kullanılır.
